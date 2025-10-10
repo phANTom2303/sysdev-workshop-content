@@ -10,7 +10,6 @@
 4. [Multi-File Projects](#multi-file-projects)
 5. [Automating Builds with Makefiles](#automating-builds-with-makefiles)
 6. [Working with External Libraries](#working-with-external-libraries)
-7. [Building the AskAI CLI Chatbot](#building-the-askai-cli-chatbot)
 
 ---
 
